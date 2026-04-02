@@ -1,0 +1,6 @@
+.env
+venv/
+node_modules/
+backend/serviceAccountKey.json
+frontend/node_modules/
+__pycache__/
